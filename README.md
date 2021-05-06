@@ -1,2 +1,1 @@
-"# online-stock-tracking" 
-"# online-stock-tracking" 
+Online Stock Tracking Web App using Django for backend and React for frontend.
